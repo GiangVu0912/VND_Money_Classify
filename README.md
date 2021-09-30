@@ -16,3 +16,5 @@ This project includes two main sessions:
 (1)Build predictor: Used transfer learning to build a model based on MobileNetV2. The model has not working well with 20000 and 50000 yet.
 
 (2)Make application: Used Streamlit
+## 3.Result
+![](https://foc.info//images/2019/04/vietnamese-currency-and-how-to-exchange-your-money-to-vnd-1555921962.jpg)
